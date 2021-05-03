@@ -1,3 +1,6 @@
+# https://pymongo.readthedocs.io/en/stable/tutorial.html
+# https://coderlessons.com/tutorials/python-technologies/izuchite-python-data-science/python-bazy-dannykh-nosql
+
 # Import the python libraries
 from pymongo import MongoClient
 from pprint import pprint
